@@ -1,0 +1,10 @@
+E:\New folder (2)\SoilderScoreRegister\SoilderScoreRegister\bin\Debug\SoilderScoreRegister.exe.config
+E:\New folder (2)\SoilderScoreRegister\SoilderScoreRegister\bin\Debug\SoilderScoreRegister.exe
+E:\New folder (2)\SoilderScoreRegister\SoilderScoreRegister\bin\Debug\SoilderScoreRegister.pdb
+E:\New folder (2)\SoilderScoreRegister\SoilderScoreRegister\obj\Debug\SoilderScoreRegister.csprojAssemblyReference.cache
+E:\New folder (2)\SoilderScoreRegister\SoilderScoreRegister\obj\Debug\SoilderScoreRegister.Form1.resources
+E:\New folder (2)\SoilderScoreRegister\SoilderScoreRegister\obj\Debug\SoilderScoreRegister.Properties.Resources.resources
+E:\New folder (2)\SoilderScoreRegister\SoilderScoreRegister\obj\Debug\SoilderScoreRegister.csproj.GenerateResource.cache
+E:\New folder (2)\SoilderScoreRegister\SoilderScoreRegister\obj\Debug\SoilderScoreRegister.csproj.CoreCompileInputs.cache
+E:\New folder (2)\SoilderScoreRegister\SoilderScoreRegister\obj\Debug\SoilderScoreRegister.exe
+E:\New folder (2)\SoilderScoreRegister\SoilderScoreRegister\obj\Debug\SoilderScoreRegister.pdb
